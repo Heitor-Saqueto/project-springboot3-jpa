@@ -1,0 +1,14 @@
+package com.heitorsaqueto.course.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+import com.heitorsaqueto.course.repositories.UserRepositiry;
+
+@Configuration
+@Profile("test")
+public class TestConfig {
+
+	@Autowired
+	private UserRepositiry userRepository;
+}

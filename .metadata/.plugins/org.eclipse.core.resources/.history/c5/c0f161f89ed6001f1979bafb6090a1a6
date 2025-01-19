@@ -1,0 +1,5 @@
+package com.heitorsaqueto.course.repositories;
+
+public class UserRepositiry {
+
+}
