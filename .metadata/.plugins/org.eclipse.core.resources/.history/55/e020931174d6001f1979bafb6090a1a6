@@ -1,0 +1,5 @@
+package com.heitorsaqueto.course.entities;
+
+public class User {
+
+}

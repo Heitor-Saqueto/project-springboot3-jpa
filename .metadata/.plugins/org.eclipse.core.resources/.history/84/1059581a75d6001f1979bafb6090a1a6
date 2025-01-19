@@ -1,0 +1,5 @@
+package com.heitorsaqueto.course.resources;
+
+public class UserResource {
+
+}
