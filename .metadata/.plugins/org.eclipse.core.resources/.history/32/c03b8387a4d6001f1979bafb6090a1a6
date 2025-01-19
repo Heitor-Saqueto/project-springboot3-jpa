@@ -1,0 +1,5 @@
+package com.heitorsaqueto.course.services;
+
+public class UserService {
+
+}

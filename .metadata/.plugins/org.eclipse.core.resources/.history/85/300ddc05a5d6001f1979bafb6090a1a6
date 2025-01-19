@@ -1,0 +1,12 @@
+package com.heitorsaqueto.course.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.heitorsaqueto.course.repositories.UserRepositiry;
+
+public class UserService {
+	
+	@Autowired
+	private UserRepositiry userRepository; 
+
+}

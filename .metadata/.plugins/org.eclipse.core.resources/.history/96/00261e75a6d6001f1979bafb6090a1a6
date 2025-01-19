@@ -1,0 +1,21 @@
+package com.heitorsaqueto.course.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.heitorsaqueto.course.entities.User;
+import com.heitorsaqueto.course.repositories.UserRepositiry;
+
+@Service
+public class UserService {
+	
+	@Autowired
+	private UserRepositiry repository; 
+	
+	public List<User> findAll(){
+		return repository.findAll();
+	}
+
+}
