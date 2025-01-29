@@ -656,3 +656,578 @@
 2025-01-19 17:56:11,558 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2025-01-19 17:56:11,567 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-01-19 17:56:11,574 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:25:23,158 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-22 19:25:24,488 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2025-01-22 19:27:10,636 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:27:10,712 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:27:10,720 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:28:42,108 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:28:42,118 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:28:42,124 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:29:22,269 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:29:22,277 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:29:22,282 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:31:41,695 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:31:41,712 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:31:41,719 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:32:30,809 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:32:30,819 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:32:30,824 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:34:53,432 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:34:53,442 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:34:53,446 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:36:11,654 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:36:11,667 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:36:11,671 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:40:00,424 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:40:00,463 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:40:00,472 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:41:57,993 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:41:58,004 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:41:58,009 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:44:19,759 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 19:44:19,768 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 19:44:19,773 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 19:45:06,372 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [360])
+2025-01-22 19:45:06,374 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-01-22 19:45:06,374 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-01-22 19:45:06,374 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-01-22 19:45:06,374 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-01-22 19:45:06,374 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-01-22 19:45:06,375 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-01-22 19:45:06,375 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-22 19:45:06,375 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-01-22 19:45:06,375 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-01-22 19:45:06,375 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-01-22 19:45:06,376 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-01-22 19:45:06,376 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-01-22 19:45:06,376 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-01-22 19:45:06,376 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-01-22 19:45:06,377 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-01-22 19:45:06,377 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-01-22 19:45:06,377 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-01-22 19:45:06,377 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-01-22 19:45:06,377 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-01-22 19:45:06,377 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-01-22 19:45:06,378 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-01-22 19:45:06,378 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-01-22 19:45:06,378 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-01-22 19:45:06,378 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-01-22 19:45:06,378 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-01-22 19:45:06,378 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-01-22 19:45:06,378 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-01-22 19:45:06,379 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-01-22 19:45:06,379 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-01-22 19:45:06,379 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-01-22 19:45:06,379 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-01-22 19:45:06,380 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-01-22 19:45:06,380 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-01-22 19:45:06,380 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-01-22 19:45:06,380 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-01-22 19:45:06,381 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-01-22 19:45:06,381 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-01-22 19:45:06,381 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-22 19:45:06,381 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-01-22 19:45:06,381 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-01-22 19:45:06,381 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-01-22 19:45:06,382 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-01-22 19:45:06,382 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-01-22 19:45:06,382 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-01-22 19:45:06,383 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [29])
+2025-01-22 19:45:06,384 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\com.google.guava_33.3.0.jre.jar
+2025-01-22 19:45:06,384 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [593])
+2025-01-22 19:45:06,384 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-01-22 19:45:06,384 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-01-22 19:45:06,385 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-22 19:45:06,385 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-01-22 19:45:06,385 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-22 19:45:06,385 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [77])
+2025-01-22 19:45:06,386 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-22 19:45:06,386 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [80])
+2025-01-22 19:45:06,386 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-22 19:45:06,386 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-01-22 19:45:06,386 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.26.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-22 19:45:06,390 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course":
+2025-01-22 19:45:06,390 [Worker-14: Launching Executing verify in C__Users_Heitor_Desktop_DRIVE_UDEMY_JAVA_JPA_PROJECTS_WEB_course_course] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always verify
+2025-01-22 20:22:27,692 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:22:27,718 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:22:27,723 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:24:03,241 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:24:03,280 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:24:03,284 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:24:26,186 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:24:26,195 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:24:26,200 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:26:53,065 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:26:53,075 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:26:53,081 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:27:07,875 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:27:07,883 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:27:07,887 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:28:28,381 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:28:28,394 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:28:28,399 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:28:46,227 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:28:46,239 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:28:46,245 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:29:34,988 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:29:35,017 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:29:35,021 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:30:02,711 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:30:02,719 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:30:02,723 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:42:52,714 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:42:52,751 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:42:52,757 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:43:05,998 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:43:06,024 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:43:06,027 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:43:35,101 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:43:35,139 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:43:35,143 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:43:42,599 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:43:42,609 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:43:42,614 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:45:51,808 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:45:51,835 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:45:51,971 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:46:09,333 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:46:09,346 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:46:09,351 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:47:07,389 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:47:07,397 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:47:07,400 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:58:48,993 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:58:49,018 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:58:49,021 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 20:59:05,256 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 20:59:05,278 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:59:05,280 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 21:12:19,036 [Worker-37: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 21:12:19,078 [Worker-37: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 21:12:19,083 [Worker-37: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 21:46:08,665 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 21:46:08,694 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 21:46:08,697 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 21:46:48,895 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 21:46:48,914 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 21:46:48,918 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 21:46:59,980 [Worker-39: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 21:47:00,027 [Worker-39: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 21:47:00,031 [Worker-39: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 21:50:20,299 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 21:50:20,308 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 21:50:20,312 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 21:50:52,640 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 21:50:52,648 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 21:50:52,653 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 21:51:35,187 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 21:51:35,199 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 21:51:35,203 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 22:01:27,423 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 22:01:27,436 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 22:01:27,440 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 22:01:37,522 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 22:01:37,534 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 22:01:37,539 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-22 22:01:56,372 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-22 22:01:56,383 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 22:01:56,387 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 11:45:39,725 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-24 11:46:31,115 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 11:46:31,185 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 11:46:31,202 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 11:55:04,856 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 11:55:04,870 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 11:55:04,879 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 11:55:55,215 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 11:55:55,229 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 11:55:55,236 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:02:52,059 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:02:52,186 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:02:52,207 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:05:04,212 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:05:04,223 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:05:04,226 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:06:39,623 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:06:39,638 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:06:39,646 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:06:46,249 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:06:46,280 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:06:46,286 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:06:50,929 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:06:50,938 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:06:50,948 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:07:22,045 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:07:22,061 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:07:22,064 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:07:35,228 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:07:35,236 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:07:35,242 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:07:43,927 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:07:43,936 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:07:43,942 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:09:10,989 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:09:11,002 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:09:11,013 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:10:54,019 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:10:54,034 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:10:54,054 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:11:52,794 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:11:52,812 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:11:52,818 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:12:38,418 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:12:38,493 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:12:38,501 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:13:29,159 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:13:29,217 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:13:29,255 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:24:37,256 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:24:37,272 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:24:37,277 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:28:02,587 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:28:02,599 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:28:02,604 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-24 12:31:16,199 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-24 12:31:16,213 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-24 12:31:16,218 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:11:45,662 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-27 13:15:33,870 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:15:33,930 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:15:33,945 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:16:01,375 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:16:01,386 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:16:01,393 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:17:50,046 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:17:50,061 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:17:50,072 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:21:19,170 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:21:19,213 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:21:19,218 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:23:47,315 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:23:47,332 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:23:47,340 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:23:59,729 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:23:59,741 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:23:59,748 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:24:29,739 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:24:29,758 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:24:29,764 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:25:43,019 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:25:43,032 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:25:43,036 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:26:18,104 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:26:18,116 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:26:18,121 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:26:28,331 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:26:28,341 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:26:28,347 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:26:47,936 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:26:47,947 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:26:47,951 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:27:47,225 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:27:47,232 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:27:47,237 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:42:36,092 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:42:36,175 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:42:36,181 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:44:00,819 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:44:00,832 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:44:00,836 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:44:18,017 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:44:18,068 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:44:18,072 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:48:29,785 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:48:29,800 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:48:29,805 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:50:02,556 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:50:02,566 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:50:02,573 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:50:18,548 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:50:18,587 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:50:18,591 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:52:07,948 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:52:07,963 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:52:07,968 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:53:09,643 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:53:09,735 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:53:09,743 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:55:42,018 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:55:42,034 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:55:42,038 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:56:52,024 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:56:52,040 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:56:52,043 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:57:17,984 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:57:18,027 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:57:18,031 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:59:07,009 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:59:07,021 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:59:07,025 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 13:59:29,157 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 13:59:29,181 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 13:59:29,189 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 14:01:05,747 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 14:01:05,756 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 14:01:05,761 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 14:01:21,562 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 14:01:21,572 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 14:01:21,577 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 14:01:25,141 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 14:01:25,167 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 14:01:25,197 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 14:04:10,212 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 14:04:10,226 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 14:04:10,230 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 19:11:08,649 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 19:11:08,956 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 19:11:08,960 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 19:11:20,696 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 19:11:20,704 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 19:11:20,708 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 19:15:17,589 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 19:15:17,619 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 19:15:17,627 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 19:15:34,080 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 19:15:34,095 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 19:15:34,101 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 19:15:51,626 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 19:15:51,668 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 19:15:51,725 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 19:16:16,268 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 19:16:16,278 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 19:16:16,282 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 21:36:10,056 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-27 21:37:13,280 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 21:37:13,308 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 21:37:13,317 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 22:44:34,252 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 22:44:34,266 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 22:44:34,276 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 22:45:20,956 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 22:45:20,966 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 22:45:20,977 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-27 22:48:23,861 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-27 22:48:23,875 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 22:48:23,904 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-28 11:55:29,549 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-28 11:55:56,525 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 11:55:56,564 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 11:55:56,573 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\src\test\resources
+2025-01-28 12:03:26,827 [Worker-6: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - File not found: C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\pom.xml.
+org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\pom.xml.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:886)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:334)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:589)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: File not found: C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\pom.xml.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:32)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.handleReadIOException(LocalFile.java:498)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:479)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:881)
+	... 26 common frames omitted
+Caused by: java.io.FileNotFoundException: C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\JPA_PROJECTS_WEB\course\course\pom.xml (O sistema não pode encontrar o arquivo especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:477)
+	... 27 common frames omitted
+2025-01-28 12:04:30,100 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-28 12:10:41,021 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-28 12:12:00,597 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-28 12:15:49,435 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.heitorsaqueto:course:0.0.1-SNAPSHOT @ C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\pom.xml.
+2025-01-28 12:15:51,625 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /course/src/main/java
+2025-01-28 12:15:51,631 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /course/src/main/resources
+2025-01-28 12:15:51,637 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /course/src/main/resources
+2025-01-28 12:15:51,646 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /course/src/test/java
+2025-01-28 12:15:51,649 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /course/src/test/resources
+2025-01-28 12:15:52,799 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2025-01-28 12:15:55,399 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 12:15:55,437 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 12:15:55,447 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 12:16:51,750 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 12:16:51,763 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 12:16:51,769 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 12:17:29,458 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 12:17:29,465 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 12:17:29,472 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 12:17:53,977 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 12:17:53,983 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 12:17:53,992 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 12:18:14,760 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 12:18:14,770 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 12:18:14,777 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:01:25,918 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-28 15:03:25,456 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:03:25,515 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:03:25,533 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:04:46,908 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:04:46,917 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:04:46,925 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:05:12,446 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:05:12,452 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:05:12,458 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:06:10,175 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:06:10,185 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:06:10,189 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:06:15,586 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:06:15,593 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:06:15,600 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:06:37,583 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:06:37,616 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:06:37,622 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:07:50,539 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:07:50,549 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:07:50,562 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:08:25,227 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:08:25,232 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:08:25,242 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:09:42,555 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:09:42,570 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:09:42,576 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:10:04,253 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:10:04,259 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:10:04,263 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:10:17,712 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:10:17,718 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:10:17,725 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:10:47,064 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:10:47,073 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:10:47,082 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:10:50,708 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:10:50,726 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:10:50,737 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:11:24,434 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:11:24,442 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:11:24,450 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:11:27,697 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:11:27,705 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:11:27,711 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:13:21,332 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:13:21,341 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:13:21,348 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:13:26,401 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:13:26,422 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:13:26,426 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:18:16,743 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:18:16,752 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:18:16,757 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:18:33,864 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:18:33,872 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:18:33,878 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:18:39,367 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:18:39,374 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:18:39,380 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:19:19,514 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:19:19,522 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:19:19,528 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:19:53,619 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:19:53,649 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:19:53,654 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:20:05,861 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:20:05,895 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:20:05,903 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:20:12,437 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:20:12,444 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:20:12,449 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:20:45,795 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:20:45,804 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:20:45,808 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:21:00,258 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:21:00,264 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:21:00,269 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:27:26,212 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:27:26,221 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:27:26,225 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:33:50,024 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.heitorsaqueto:course:0.0.1-SNAPSHOT @ C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\pom.xml.
+2025-01-28 15:33:51,440 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:33:51,442 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:33:51,464 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:33:52,367 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:33:52,392 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:33:52,398 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:39:03,751 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:39:03,755 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:39:03,759 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:39:31,797 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 15:39:31,826 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:39:31,830 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:42:06,162 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:42:06,296 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:42:06,302 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:48:10,094 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:48:10,111 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:48:10,116 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:48:42,192 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:48:42,214 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:48:42,218 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:48:49,835 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:48:49,848 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:48:49,853 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:48:57,017 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:48:57,081 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:48:57,092 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:49:18,441 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:49:18,457 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:49:18,464 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:49:29,632 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:49:29,647 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:49:29,651 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:49:36,513 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:49:36,530 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:49:36,535 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:49:48,542 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:49:48,558 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:49:48,563 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:49:54,157 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:49:54,171 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:49:54,177 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:50:02,801 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:50:02,812 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:50:02,816 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:50:07,707 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:50:07,716 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:50:07,722 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:50:11,931 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:50:11,940 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:50:11,943 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:50:55,498 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:50:55,507 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:50:55,511 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:51:09,495 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:51:09,504 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:51:09,507 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 15:51:52,300 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 15:51:52,340 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 15:51:52,345 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-28 16:01:20,256 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-28 16:01:30,606 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-28 16:01:30,666 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 16:01:30,680 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-01-29 11:29:51,728 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-29 11:30:58,733 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-29 11:30:58,778 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 11:30:58,791 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
