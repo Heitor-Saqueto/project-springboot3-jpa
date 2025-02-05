@@ -1315,3 +1315,4 @@ Caused by: java.io.FileNotFoundException: C:\Users\Heitor\Desktop\DRIVE\UDEMY\JA
 2025-02-05 11:52:10,116 [Worker-22: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2025-02-05 11:52:10,127 [Worker-22: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-02-05 11:52:10,131 [Worker-22: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Heitor\Desktop\DRIVE\UDEMY\JAVA\MATERIAL_PROJETO_WEB_SERVICES_STS_JPA\course\course\src\test\resources
+2025-02-05 11:59:37,883 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
